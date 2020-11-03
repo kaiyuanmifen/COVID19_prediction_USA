@@ -1,4 +1,4 @@
-# State level COVID19 prediction in the USA
+# State level COVID-19 new positive cases/death prediction in the USA
 
 This document contains R/Python codes for COVID-19 cases/ incidence death prediction in the U.S. 
 
